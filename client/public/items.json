@@ -1,0 +1,22 @@
+[
+  {
+    "items": "Men's Fashion",
+    "category": "mens item",
+    "banner": "https://i.ibb.co/5h5dXpW/banner.jpg",
+    "products": [
+      {
+        "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+        "title": "Formal White Shir White",
+        "offerPrice": 550,
+        "percentage": "10% off"
+      },
+      {
+        "image": "https://i.ibb.co/BBQQTt9/2.jpg",
+        "title": "Red Color Check Shirt",
+        "offerPrice": 550,
+        "percentage": "10% off",
+        "regularPrice": 750
+      }
+    ]
+  }
+]

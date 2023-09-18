@@ -1,0 +1,111 @@
+[
+  {
+    "_id": { "$oid": "64aec5245dec555ce59505e9" },
+    "name": "NEAMUL KABIR",
+    "number": "01938927389",
+    "address": "Mohammadpur, Road: 15, House: 14",
+    "email": "neamul@gmail.com",
+    "cart": [
+      {
+        "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+        "title": "Formal White Shir White",
+        "slug": "Formal-white-shirt-white-00001",
+        "price": { "$numberInt": "550" },
+        "color": "White",
+        "quantity": { "$numberInt": "1" },
+        "costPrice": "400"
+      },
+      {
+        "image": "https://i.ibb.co/7GMG6G4/3.jpg",
+        "title": "Mens Tshirt",
+        "percentage": "10% off",
+        "regularPrice": { "$numberInt": "750" },
+        "slug": "Mens-tshirt-00003",
+        "price": { "$numberInt": "550" },
+        "color": "Ash",
+        "quantity": { "$numberInt": "2" },
+        "costPrice": "420"
+      }
+    ],
+    "date": "20.10.23"
+  },
+  {
+    "_id": { "$oid": "64aeca0c5dec555ce59505ec" },
+    "name": "Mohasin",
+    "number": "01631230163",
+    "address": "Mirpur Dhaka, Road:04, House: 14",
+    "email": "Mohasin@gmail.com",
+    "cart": [
+      {
+        "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+        "title": "Formal White Shir White",
+        "slug": "Formal-white-shirt-white-00001",
+        "price": { "$numberInt": "550" },
+        "color": "White",
+        "quantity": { "$numberInt": "1" },
+        "costPrice": "480"
+      }
+    ],
+    "date": "23.10.23"
+  },
+  {
+    "_id": { "$oid": "64aeca2d5dec555ce59505ed" },
+    "name": "Rashed",
+    "number": "0198932545",
+    "address": "Section 11, Block A, Road 4, House 14, Mirpur, Pallabi, Dhaka-1216",
+    "email": "rashed@gmail.com",
+    "cart": [
+      {
+        "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+        "title": "Formal White Shir White",
+        "slug": "Formal-white-shirt-white-00001",
+        "price": { "$numberInt": "550" },
+        "color": "White",
+        "quantity": { "$numberInt": "1" },
+        "costPrice": "500"
+      }
+    ],
+    "date": "25.10.23"
+  },
+  {
+    "_id": { "$oid": "64b2b18790d03bb975bc8f41" },
+    "name": "NEAMUL KABIR",
+    "number": "019838927389",
+    "address": "Mohammadpur, Road: 15, House: 14",
+    "email": "neamul@gmail.com",
+    "cart": [
+      {
+        "image": "https://i.ibb.co/HNVXY1D/4.jpg",
+        "title": "Red Tshirt",
+        "percentage": "10% off",
+        "slug": "Red-tshirt-00004",
+        "price": { "$numberInt": "550" },
+        "color": "Red",
+        "quantity": { "$numberInt": "1" },
+        "costPrice": "550"
+      }
+    ],
+    "date": "26.10.23"
+  },
+  {
+    "_id": { "$oid": "64b3b9c3b71663da97472f52" },
+    "name": "Rashed",
+    "number": "01938927389",
+    "address": "Dhaka, Bangladesh.",
+    "email": "rashed@gmail.com",
+    "cart": [
+      {
+        "image": "https://i.ibb.co/7SLLLR8/5.jpg",
+        "title": "Print Half Sleeve Shirt",
+        "percentage": "10% off",
+        "regularPrice": { "$numberInt": "750" },
+        "slug": "Print-half-sleeve-shirt-00005",
+        "price": { "$numberInt": "550" },
+        "color": "Green",
+        "quantity": { "$numberInt": "1" },
+        "costPrice": "350"
+      }
+    ],
+    "date": "27.10.23"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "_id":  "64dce37e9e2f1a64dda7afe2",
+    "name": "Neamul Kabir Sabbir",
+    "number": "01600009282",
+    "address": "Section 11, Block A, Road 4, House 14, Mirpur, Pallabi, Dhaka-1216",
+    "email": "sakib@gmail.com",
+    "cart": [
+      {
+        "_id": "64d8a6c84e55224fe25b109b",
+        "image": "https://i.ibb.co/7GMG6G4/3.jpg",
+        "title": "Mens Tshirt",
+        "regularPrice": "750",
+        "slug": "Mens-tshirt-00003",
+        "price": "550",
+        "color": "Ash",
+        "category": "Mans Shirt",
+        "costPrice": "500",
+        "quantity": "2"
+      }
+    ],
+    "total": "1290.00",
+    "message": "Give me urgently",
+    "totalProductPrice": "1100",
+    "totalCostPrice": "1000",
+    "date": "8/16/2023"
+  },
+  {
+    "_id":  "64dce3db9e2f1a64dda7afe3",
+    "name": "MD. NAZMUL KABIR",
+    "number": "158952477",
+    "address": "House 14, Mirpur, Pallabi, Dhaka-1216",
+    "email": "mohasin@gmail.com",
+    "cart": [
+      {
+        "_id": "64d8a6c84e55224fe25b109a",
+        "image": "https://i.ibb.co/BBQQTt9/2.jpg",
+        "title": "Red Color Check Shirt",
+        "regularPrice": "750",
+        "slug": "Red-color-check-shirt-00002",
+        "price": "550",
+        "color": "Black",
+        "category": "Mans Shirt",
+        "costPrice": "450",
+        "quantity": "1"
+      }
+    ],
+    "total": "685.00",
+    "message": "",
+    "totalProductPrice": "550",
+    "totalCostPrice": "450",
+    "date": "8/16/2023"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b1099",
+    "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+    "title": "Formal White Shir White",
+    "slug": "Formal-white-shirt-white-00001",
+    "price":  "680" ,
+    "color": "White",
+    "category": "Mans Shirt",
+    "costPrice": "550"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109a",
+    "image": "https://i.ibb.co/BBQQTt9/2.jpg",
+    "title": "Red Color Check Shirt",
+    "regularPrice":  "750" ,
+    "slug": "Red-color-check-shirt-00002",
+    "price":  "550" ,
+    "color": "Black",
+    "category": "Mans Shirt",
+    "costPrice": "450"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109b",
+    "image": "https://i.ibb.co/7GMG6G4/3.jpg",
+    "title": "Mens Tshirt",
+    "regularPrice":  "750" ,
+    "slug": "Mens-tshirt-00003",
+    "price":  "550" ,
+    "color": "Ash",
+    "category": "Mans Shirt",
+    "costPrice": "500"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109c",
+    "image": "https://i.ibb.co/HNVXY1D/4.jpg",
+    "title": "Red Tshirt",
+    "slug": "Red-tshirt-00004",
+    "price":  "550" ,
+    "color": "Red",
+    "category": "Girls Item",
+    "costPrice": "320"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109d",
+    "image": "https://i.ibb.co/7SLLLR8/5.jpg",
+    "title": "Print Half Sleeve Shirt",
+    "regularPrice":  "750" ,
+    "slug": "Print-half-sleeve-shirt-00005",
+    "price":  "600" ,
+    "color": "Green",
+    "category": "Girls Item",
+    "costPrice": "520"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109e",
+    "image": "https://i.ibb.co/7GMG6G4/3.jpg",
+    "title": "Print Full Sleeve Shirt",
+    "regularPrice":  "750" ,
+    "slug": "Print-full-sleeve-shirt-00006",
+    "price":  "550" ,
+    "color": "Ash",
+    "category": "Girls Item",
+    "costPrice": "500"
+  },
+  {
+    "_id":  "64d8a6c84e55224fe25b109f",
+    "image": "https://i.ibb.co/tsZW6Sm/1.jpg",
+    "title": "Formal White Shir White",
+    "slug": "Formal-White-Shir-White-00007",
+    "price": "650",
+    "color": "White",
+    "category": "Baby Items",
+    "costPrice": "420"
+  }
+]
